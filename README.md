@@ -4,11 +4,14 @@ Created a web app using Heroku and Dash to visualize with a heatmap the ratings 
 
 ### Usage
 The app is hosted on Heroku at https://show-visualizer.herokuapp.com/
+
 Simply type the name of a show and wait for the heatmap to load to see the ratings over time
 
 ### Built With
 Flask - a Python web framework built with a small core and easy-to-extend philosophy.
-Dash - A Python framework for building reactive web-apps
+
+Dash - A Python framework for building reactive web-apps.
+
 IMDbPy - a Python package useful to retrieve and manage the data of the IMDb movie database about movies, people, characters and companies.
 
 ### Future Development:
